@@ -27,7 +27,7 @@ https://github.com/DanielaDoliveira/InfiniteDriving3D
 ### Website
  - https://infinitedrivingthegame.netlify.app/
 ### API
-- https://github.com/DanielaDoliveira/infinitedrivingbackend/tree/main/src
+- https://infinitedrivingbackend.onrender.com
 
 ## Screenshots
 - Soon
